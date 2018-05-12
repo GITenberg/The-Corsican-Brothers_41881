@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41881#The-Corsican-Brothers
 gutenberg_issued: '2013-01-20'
 gutenberg_type: Text
 identifiers:
