@@ -1,0 +1,42 @@
+_repo: The-Corsican-Brothers_41881
+_version: 0.1.0
+alternative_title: Les frères corses. English
+contributor:
+  translator:
+    agent_name: Frith, Henry
+    birthdate: 1840
+    gutenberg_agent_id: '25884'
+    url: http://www.gutenberg.org/2009/agents/25884
+covers:
+- cover_type: archival
+  image_path: 41881-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    - Dumas père, Alexandre
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2013-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41881'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcsh 'Corsica (France) -- Fiction'
+- !lcsh 'Vendetta -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcc 'PQ'
+title: The Corsican Brothers
+url: http://www.gutenberg.org/ebooks/41881
